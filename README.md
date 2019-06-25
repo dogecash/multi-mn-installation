@@ -44,6 +44,10 @@ bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-i
 
 This script is such a big one but has absolutely no competition across all the PoS scene. This thing gives you amazing control across all of your masternodes, it does chain checks, checks sync and does enormous amounts of things, just have a look on some of the commands at the end of the FAQ.
 
+### How do I install more Masternodes?
+
+You only need to run the script again.
+
 ## *INSTALLATION:*
 Paste this line into console and press ENTER.
 
